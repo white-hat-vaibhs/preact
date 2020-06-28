@@ -52,7 +52,7 @@ const PropertyStreet = styled(Text)`
 const MoveInDate = styled(Text)`
     width: 15%;
 `
-const Rent = styled(Text)`
+const Rate = styled(Text)`
     width: 10%;
 `
 const DepositWrapper = styled.div`
@@ -85,9 +85,9 @@ const Deposit = ({ data }) => {
                 </PropertyText>
             </Property>
             <MoveInDate>{moveInDate}</MoveInDate>
-            <Rent>${rate}</Rent>
+            <Rate>Rs {rate}</Rate>
             <DepositWrapper>
-                <Text>${deposit.amount}</Text>
+                <Text>Rs {deposit.amount}</Text>
                 <Subtitle>{deposit.type}</Subtitle>
             </DepositWrapper>
             <Status>

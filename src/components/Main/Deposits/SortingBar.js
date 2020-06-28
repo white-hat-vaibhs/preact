@@ -41,8 +41,8 @@ const SortingBar = () => {
         <Container>
             <Property>Property</Property>
             <MoveInDate>Move In Date</MoveInDate>
-            <Rent>Rent</Rent>
-            <Deposit>Deposit</Deposit>
+            <Rent>Rate</Rent>
+            <Deposit>Electricity Bill</Deposit>
             <Status>Status</Status>
         </Container>
     )

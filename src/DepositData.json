@@ -13,7 +13,7 @@
             "rate": "2.5 crore",
             "deposit": {
                 "amount": 9000.00,
-                "type": "First, Last & Security"
+                "type": "Annual"
             },
             "status": {
                 "message": "Payment Done",
