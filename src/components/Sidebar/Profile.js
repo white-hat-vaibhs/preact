@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import Image from '../../assets/images/profilelg.png'
+import Image from '../../assets/images/profilelg.jpg'
 
 const Container = styled.div`
     margin-top: 5rem;
@@ -8,6 +8,7 @@ const Container = styled.div`
 
 const ProfileImg = styled.img`
     height: 5rem;
+    border-radius: 50%;
 `
 const ProfileName = styled.h1`
     font-size: 1rem;
@@ -19,7 +20,7 @@ const Profile = () => {
     return (
         <Container>
             <ProfileImg src={Image} />
-            <ProfileName>Scott Grant</ProfileName>
+            <ProfileName>Chandra Prakash Soni</ProfileName>
         </Container>
     )
 }

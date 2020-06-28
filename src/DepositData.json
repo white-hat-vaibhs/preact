@@ -45,9 +45,9 @@
         {
             "property": {
                 "address": {
-                    "street": "1694 Noble Cape",
-                    "city": "Las Vegas",
-                    "state": "NV"
+                    "street": "Good Name",
+                    "city": "some good Area",
+                    "state": "state name"
                 },
                 "imageUrl": "noblecape.png"
             },
@@ -65,9 +65,9 @@
         {
             "property": {
                 "address": {
-                    "street": "1141 Tawny Maze",
-                    "city": "Raleigh",
-                    "state": "NC"
+                    "street": "Name 2",
+                    "city": "Indore",
+                    "state": "MP"
                 },
                 "imageUrl": "tawnymaze.png"
             },
