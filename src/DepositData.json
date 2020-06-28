@@ -1,0 +1,86 @@
+{
+    "active": [
+        {
+            "property": {
+                "address": {
+                    "street": "16 Jawahar Marg",
+                    "city": "Mahidpur City",
+                    "state": "MP"
+                },
+                "imageUrl": "lostround.png"
+            },
+            "moveInDate": "25 February 1996",
+            "rate": "2.5 crore",
+            "deposit": {
+                "amount": 9000.00,
+                "type": "First, Last & Security"
+            },
+            "status": {
+                "message": "Payment Done",
+                "level": 3
+            }
+        },
+        {
+            "property": {
+                "address": {
+                    "street": "Colony",
+                    "city": "Mahidpur",
+                    "state": "MP"
+                },
+                "imageUrl": "jaggedarbor.png"
+            },
+            "moveInDate": "12 december 2020",
+            "rate": 2300.00,
+            "deposit": {
+                "amount": 4600.00,
+                "type": "First & Last"
+            },
+            "status": {
+                "message": "Payment Processed",
+                "level": 3
+            }
+        }
+    ],
+    "closed": [
+        {
+            "property": {
+                "address": {
+                    "street": "1694 Noble Cape",
+                    "city": "Las Vegas",
+                    "state": "NV"
+                },
+                "imageUrl": "noblecape.png"
+            },
+            "moveInDate": "3 February 2020",
+            "rate": 3300.00,
+            "deposit": {
+                "amount": 6900.00,
+                "type": "Complete"
+            },
+            "status": {
+                "message": "Awaiting Bank Processing",
+                "level": 3
+            }
+        },
+        {
+            "property": {
+                "address": {
+                    "street": "1141 Tawny Maze",
+                    "city": "Raleigh",
+                    "state": "NC"
+                },
+                "imageUrl": "tawnymaze.png"
+            },
+            "moveInDate": "12 January 2020",
+            "rate": 2500.00,
+            "deposit": {
+                "amount": 7500.00,
+                "type": "First, Last & Security"
+            },
+            "status": {
+                "message": "Expired: No Payment Received",
+                "level": 1
+            }
+        }
+    ]
+}
